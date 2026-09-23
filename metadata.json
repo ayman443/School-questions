@@ -1,0 +1,8 @@
+{
+  "name": "Remix مُنشئ الاختبارات المدرسية | School Exam Paper Maker",
+  "description": "برنامج تصميم وإنشاء الأسئلة المدرسية والامتحانات الرسمية بطباعة احترافية وترويسة مخصصة وتوزيع الدرجات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
